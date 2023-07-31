@@ -30,7 +30,7 @@ namespace Dominio.Votacion.entities {
     }
   
     // Getter methods (funciones puras)
-    getFechaNacimiento(): string {
+    getfechaNacimiento(): string {
       return this.fechaNacimiento;
     }
   
